@@ -8,4 +8,4 @@ LVGL_Adafruit_LCD_spiLCD_Arduino - shows how to use LVGL when you have Adafruit'
 
 LVGL_eSPI_spiLCD_Arduino - shows how to use LVGL when you have TFT_eSPI as you LCD drivers.
 
-More information about this tutorial at: 
+More information about this tutorial at: https://daumemo.com/how-to-use-lvgl-library-on-arduino-with-an-esp-32-and-spi-lcd/
